@@ -31,4 +31,4 @@ Make sure to create a \`.env\` file in the root directory with the following var
 `process.env.MAIL_PASSWORD=<password>\`
 
 
-Replace \`<email>\` and \`<password>\` with your email address and password respectively. These variables are used by the application to send emails.
+Replace `<email>\` and `<password>\` with your email address and password respectively. These variables are used by the application to send emails.
