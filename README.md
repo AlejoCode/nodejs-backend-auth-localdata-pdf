@@ -1,11 +1,13 @@
 # nodejs-backend-auth-localdata-pdf
-# React Frontend
+# Backend using SOLID principels in nodejs
 
 ## Description
 
-This is a frontend application built with React.
+This is a backend application built with nodejs.
 
 ## Getting Started
+
+for any functionality just create a .js in the `/libs/` folder and call it in the index.js
 
 ### Installation
 
