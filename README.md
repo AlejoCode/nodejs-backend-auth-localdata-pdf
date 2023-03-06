@@ -11,9 +11,7 @@ This is a frontend application built with React.
 
 To install the dependencies for this project, run the following command from the root directory:
 
-\`\`\`
-npm install
-\`\`\`
+`$ npm install\`
 
 ### Starting the Application
 
