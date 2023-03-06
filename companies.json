@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "640502f9e93bc4f0ff157003",
+    "companyname": "zzzzz",
+    "address": "zzzzz",
+    "nit": "zzzzz",
+    "phone": "zzzz",
+    "inventory": [
+      {
+        "name": "article1",
+        "quantity": "12"
+      },
+      {
+        "name": "article2",
+        "quantity": "1"
+      },
+      {
+        "name": "article 3",
+        "quantity": "333"
+      },
+      {
+        "name": "article 4",
+        "quantity": "4"
+      },
+      {
+        "name": "5",
+        "quantity": "5"
+      },
+      {
+        "name": "6",
+        "quantity": "4"
+      },
+      {
+        "name": "7",
+        "quantity": ""
+      },
+      {
+        "name": "8",
+        "quantity": "8"
+      },
+      {
+        "name": "asdasd",
+        "quantity": "23123"
+      }
+    ]
+  },
+  {
+    "_id": "640519ce5b9fb5776f38f9fc",
+    "companyname": "asdasd",
+    "address": "asdasdasd",
+    "nit": "adasdas",
+    "phone": "adasdas",
+    "inventory": [
+      {
+        "name": "erewrwerwer",
+        "quantity": "123123"
+      }
+    ]
+  },
+  {
+    "_id": "64051a395de074dd060b646b",
+    "companyname": "wertwert",
+    "address": "ewrtwet",
+    "nit": "wertwert",
+    "phone": "wertwet",
+    "inventory": []
+  }
+]
