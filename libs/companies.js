@@ -258,13 +258,13 @@ module.exports = app => {
             const transporter = nodemailer.createTransport({
               service: 'Hotmail',
               auth: {
-                user: 'daniel.salgado01@hotmail.com',
+                user: process.env.MAIL,
                 pass: process.env.MAIL_PASSWORD
               }
             });
 
             const mailOptions = {
-              from: 'daniel.salgado01@hotmail.com',
+              from: process.env.MAIL,
               to: email,
               subject: 'Inventory PDF',
               text: 'Please find attached the inventory PDF.',
